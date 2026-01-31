@@ -246,7 +246,7 @@ Steven Lewis
 AWS Solutions Architect Associate
 AWS Cloud Practitioner
 GitHub: github.com/sjlewis25
-LinkedIn: [your-linkedin-url]
+LinkedIn: linkedin.com/in/steven-lewis-fl
 
 ## Acknowledgments
 
