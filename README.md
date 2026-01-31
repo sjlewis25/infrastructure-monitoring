@@ -1,3 +1,9 @@
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker)
+![Prometheus](https://img.shields.io/badge/Metrics-Prometheus-E6522C?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Dashboards-Grafana-F46800?logo=grafana)
+
 # Infrastructure Monitoring Stack
 
 Production-grade monitoring solution using Prometheus, Grafana, AlertManager, and Node Exporter. Deployed on AWS using Terraform for repeatable, infrastructure-as-code deployments.
