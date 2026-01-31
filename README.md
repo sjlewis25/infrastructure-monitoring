@@ -14,6 +14,8 @@ This project addresses these challenges by providing an enterprise-grade monitor
 
 ## Architecture
 
+![Architecture Diagram](docs/architecture.png)
+
 The monitoring stack follows a three-tier collection and visualization architecture:
 
 **Data Collection Layer**
